@@ -32,7 +32,4 @@ El objetivo es mostrar mis habilidades en **desarrollo Front-end**, diseño web 
 
 ## 🔗 Acceso al proyecto
 
-Puedes clonar el repositorio con:  
-
-```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+https://portafolio-gamma-ashy.vercel.app/
