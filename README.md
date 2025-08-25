@@ -21,13 +21,6 @@ El objetivo es mostrar mis habilidades en **desarrollo Front-end**, diseño web 
 - **CSS3** → Estilos y diseño responsivo.  
 - **Google Fonts** → Tipografías *Krona One* y *Montserrat*.  
 - **Flexbox y Media Queries** → Para lograr un diseño adaptable a distintos dispositivos.  
-
----
-
-## 📸 Vista previa
-
-👉 *(Aquí puedes poner un screenshot del proyecto si quieres, usando `![texto alternativo](ruta/imagen.png)` una vez lo subas a tu repo)*  
-
 ---
 
 ## 🔗 Acceso al proyecto
